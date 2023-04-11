@@ -16,8 +16,9 @@ A junior developer with a strong knowledge of JavaScript, Python, Mongo, PERN, M
 - Bash scripting
 
 ## 📜 Certifications
-- Python
-- QA Tester
+- Python - CoderHouse
+- QA Tester - CoderHouse
+-Frontend FullStack Developer - Henry Academy
 
 I'm a dedicated and hard-working individual who is passionate about coding and always eager to learn new technologies. Let's connect and collaborate on exciting projects!
 
