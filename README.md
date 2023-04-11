@@ -1,38 +1,23 @@
-### ¡Hola, soy Thomas Gomez! 👋
+# Hi there! 👋
 
-Soy un desarrollador junior con sólidos conocimientos de Python, Django, MongoDB, PERN, MERN, React JS y Three.js. También completé Henry Bootcamp con más de 900 horas donde aprendí metodologías ágiles, control de versiones y pruebas manuales con Postman/Thunder Client. Tengo conocimientos previos en Linux Bash scripting y poseo un First Certificate de la Universidad de Cambridge, una certificación intermedia de paquete Office, una certificación en Python y una certificación de QA tester.
+I'm Thomas, a junior developer with a strong knowledge of JavaScript, Python, Mongo, PERN, MERN, React JS, and Three.js. I also completed a +900 hour bootcamp where I learned Agile methodologies, version control, and manual testing with Postman/Thunder Client. I have prior knowledge of Linux Bash scripting and hold a First Certificate from the University of Cambridge, an intermediate Office package certification, a Python certification, and a QA tester certification.
 
-🔧 Habilidades:
+## 🔧 Skills
+- Python
+- Django
+- MongoDB
+- PERN/MERN stack
+- React JS
+- Three.js
+- Agile methodologies
+- Version control
+- Postman/Thunder Client
+- Bash scripting
 
-React JS
-Three.js
-Python
-Django
-MongoDB
-PERN/MERN stack
-Metodologías ágiles
-Control de versiones
-Postman/Thunder Client
-Linux Bash scripting
+## 📜 Certifications
+- Python
+- QA Tester
 
-📜 Certificaciones:
+I'm a dedicated and hard-working individual who is passionate about coding and always eager to learn new technologies. Let's connect and collaborate on exciting projects!
 
-Python
-QA Tester
-Soy una persona dedicada y apasionada por la programación, dispuesta a aprender nuevas tecnologías. 
-¡Conectemos y colaboremos!
-
-<!--
-**n3-n2-n1/n3-n2-n1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React and JS SVG](https://cdn.svgporn.com/logos/react.svg)
