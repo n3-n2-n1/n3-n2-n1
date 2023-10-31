@@ -21,7 +21,3 @@ A junior developer with a strong knowledge of JavaScript, Python, Mongo, PERN, M
 -Frontend FullStack Developer - Henry Academy
 
 I'm a dedicated and hard-working individual who is passionate about coding and always eager to learn new technologies. Let's connect and collaborate on exciting projects!
-
-![React and JS SVG](https://cdn.svgporn.com/logos/react.svg)
-![JavaScript logo](https://cdn.svgporn.com/logos/javascript.svg)
-![Three.js logo](https://cdn.svgporn.com/logos/threejs.svg)
